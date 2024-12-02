@@ -1,0 +1,15 @@
+D:\lab4\Examples\Ex002\bin\Debug\net8.0\Ex002.exe
+D:\lab4\Examples\Ex002\bin\Debug\net8.0\Ex002.deps.json
+D:\lab4\Examples\Ex002\bin\Debug\net8.0\Ex002.runtimeconfig.json
+D:\lab4\Examples\Ex002\bin\Debug\net8.0\Ex002.dll
+D:\lab4\Examples\Ex002\bin\Debug\net8.0\Ex002.pdb
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.AssemblyInfoInputs.cache
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.AssemblyInfo.cs
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.csproj.CoreCompileInputs.cache
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.sourcelink.json
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.dll
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\refint\Ex002.dll
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.pdb
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\Ex002.genruntimeconfig.cache
+D:\lab4\Examples\Ex002\obj\Debug\net8.0\ref\Ex002.dll
